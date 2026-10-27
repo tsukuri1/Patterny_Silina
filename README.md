@@ -42,7 +42,7 @@
 ### 1. Клонируйте репозиторий
 
 Откройте терминал и выполните команду:
-git clone https://github.com/ВАШ_НИК/patterny.git
+git clone https://github.com/tsukuri1/Paterny_Silina.git (Пример)
 cd patterny
 
 ### 2. Создайте и активируйте виртуальное окружение
